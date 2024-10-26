@@ -1,11 +1,47 @@
-# Sample Snack app
+# Jurídico News
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+<div align="center">
+  <a href="#-como-rodar-o-projeto">Como rodar o projeto</a> | <a href="#-o-projeto">O Projeto</a> | <a href="#-tecnologias">Tecnologias</a>
+</div>
+<br>
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+# ⚙️ Como rodar o projeto
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+- Certifique-se de que possui o **Node.js** e o **Expo CLI** instalados em sua máquina.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+- Clone o repositório usando o comando:
+  ```bash
+  git clone https://github.com/seuusuario/juridico-news.git
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+- Acesse o diretório do projeto:
+  ```bash
+  cd juridico-news
+
+- Instale as dependências do projeto:
+  ```bash
+  npm install
+
+- Inicie o projeto com o Expo:
+  ```bash
+  expo start
+
+- Escaneie o QR code com o aplicativo Expo Go em seu dispositivo móvel para visualizar o projeto.
+
+# 👷🏻 O Projeto
+O Jurídico News é um aplicativo desenvolvido durante o Inova Week, um evento da Universidade Vila Velha de inovação. Criado em parceria com minha namorada, estudante de direito, o app foi feito com dados mockados para simular o fluxo de notícias jurídicas e leis brasileiras. Este projeto não utiliza banco de dados real, sendo desenvolvido exclusivamente para apresentação no evento.
+
+# 🚀 Tecnologias
+Estas são as tecnologias utilizadas no desenvolvimento do projeto:
+
+- React Native
+- Expo CLI
+- JavaScript
+
+________________________________________________________________________________________________________________________________________________________________________________
+
+
+<div align="center">
+  <p>Desenvolvido com 💙 Pedro Henrique Gomes Chagas</p> <br>
+  <p>☎️ Entre em contato!<p> <br>
+  <a display="flex" text-align="center" href="https://www.linkedin.com/in/pedrogchagas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
